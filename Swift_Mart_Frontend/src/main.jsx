@@ -29,7 +29,7 @@ import MysteryBox from "./pages/MysteryBox";
 import ClaimBox from "./pages/ClaimBox";
 import OlxMarketplace from "./pages/OlxMarketplace";
 import OlxProductDetail from "./pages/OlxProductDetails";
-import OlxCart from "./pages/OlxCart";
+import OlxCart from "./pages/OlxCart.jsx";
 import OlxPurchases from "./pages/OlxPurchases";
 import PurchaseSuccess from "./pages/PurchaseSuccess";
 import AdminProductsDashboard from "./components/AdminProductsDashboard";
