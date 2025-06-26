@@ -30,7 +30,7 @@ import ClaimBox from "./pages/ClaimBox";
 import OlxMarketplace from "./pages/temp.jsx";
 
 
-import OlxProductDetail from "./pages/OlxProductDetails";
+import OlxProductDetail from "./pages/Olxproductdetails.jsx";
 import OlxCart from "./pages/OlxCart.jsx";
 import OlxPurchases from "./pages/OlxPurchases";
 import PurchaseSuccess from "./pages/PurchaseSuccess";
@@ -48,7 +48,7 @@ import FAQ from "./pages/Faq"
 import Shipping from "./pages/Shipping";
 import TrackOrder from "./pages/TrackOrder";
 import PrivacyPolicy from "./pages/PrivacyPolicy";
-import TermsOfUse from "./pages/TermsOfUse";
+import TermsOfUse from "./pages/Termsofuse.jsx";
 import Security from "./pages/Security";
 import Sitemap from "./pages/SiteMap";
 
