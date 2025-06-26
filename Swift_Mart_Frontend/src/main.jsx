@@ -27,10 +27,11 @@ import Order from "./pages/OrdePage";
 import AllOrder from "./pages/AllOrder";
 import MysteryBox from "./pages/MysteryBox";
 import ClaimBox from "./pages/ClaimBox";
-import OlxMarketplace from "./pages/temp.jsx";
+import OlxMarketplace from "./pages/OLxMarketplace.jsx";
 
 
-import OlxProductDetail from "./pages/Olxproductdetails.jsx";
+
+import OlxProductDetail from "./pages/OlxProductDetails.jsx";
 import OlxCart from "./pages/OlxCart.jsx";
 import OlxPurchases from "./pages/OlxPurchases";
 import PurchaseSuccess from "./pages/PurchaseSuccess";
