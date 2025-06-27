@@ -169,7 +169,7 @@ const OlxCart = () => {
                         disabled={loading}
                         className="flex-1 md:flex-none px-4 py-2 bg-blue-600 text-white rounded hover:bg-blue-700 transition-colors shadow-lg hover:scale-105 duration-300 disabled:opacity-50 disabled:cursor-not-allowed disabled:transform-none"
                       >
-                        {loading ? "Processing..." : "Buy Now"}
+                        {loading ? "Processing...Just Wait " : "Buy Now"}
                       </button>
                     </div>
                   </div>
