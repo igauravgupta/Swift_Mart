@@ -27,7 +27,7 @@ import Order from "./pages/OrdePage";
 import AllOrder from "./pages/AllOrder";
 import MysteryBox from "./pages/MysteryBox";
 import ClaimBox from "./pages/ClaimBox";
-import OlxMarketplace from "./pages/OLxMarketplace.jsx";
+import OlxMarketplace from "./pages/OlxMarketplace.jsx";
 
 
 
