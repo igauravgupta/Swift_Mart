@@ -49,7 +49,7 @@ import FAQ from "./pages/Faq"
 import Shipping from "./pages/Shipping";
 import TrackOrder from "./pages/TrackOrder";
 import PrivacyPolicy from "./pages/PrivacyPolicy";
-import TermsOfUse from "./pages/TermsOfuse.jsx";
+import TermsOfUse from "./pages/TermsOfUse.jsx";
 import Security from "./pages/Security";
 import Sitemap from "./pages/SiteMap";
 
